@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" 
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:podcast="https://podcastindex.org/namespace/1.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pitch and Play</title>
+    <link>https://pitchandplay.org</link>
+    <language>en-us</language>
+    <copyright>and#169; 2025 Pitch and Play</copyright>
+    <itunes:author>Pitch and Play</itunes:author>
+    <description>A podcast about actually playing the games your friends recommend.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>Pitch and Play</itunes:name>
+      <itunes:email>hello@pitchandplay.org</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://pitchandplay.org/cover.png" />
+    <image>
+      <url>https://pitchandplay.org/cover.png</url>
+      <title>Pitch and Play</title>
+      <link>https://pitchandplay.org</link>
+    </image>
+    <itunes:category text="Leisure">
+      <itunes:category text="Video Games"/>
+    </itunes:category>
+    <itunes:explicit>true</itunes:explicit>
+    <itunes:summary>A podcast about actually playing the games your friends recommend.</itunes:summary>
+    <atom:link 
+      href="https://pitchandplay.org/feed.xml" 
+      rel="self" 
+      type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <itunes:new-feed-url>
+      https://pitchandplay.org/feed.xml
+    </itunes:new-feed-url>
+
+    
+    
+    <item>
+      <title>Vampire Survivors</title>
+      <link>http://localhost:1313/vampire-survivors/</link>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:title>Vampire Survivors</itunes:title>
+      <description>
+          The supernatural indie phenomenon that lets you be the bullet hell!
+      </description>
+      <content:encoded>
+        <![CDATA[<audio controls preload="auto" class="js-player">
+    <source src="https://cdn.pitchandplay.org/episodes/PPEpisode4.mp3">
+</audio>
+<p>In this episode of Pitch &amp; Play, an episode about actually playing the games your friends recommend, Cassie plays <em>Vampire Survivors</em>, the game Ross pitched last episode. Our hosts then give a brief update on their thoughts on <em>Immortality</em>, and Cassie pitches <em>Fable Anniversary</em> to Ross for our next episode.</p>
+]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<audio controls preload="auto" class="js-player">
+    <source src="https://cdn.pitchandplay.org/episodes/PPEpisode4.mp3">
+</audio>
+<p>In this episode of Pitch &amp; Play, an episode about actually playing the games your friends recommend, Cassie plays <em>Vampire Survivors</em>, the game Ross pitched last episode. Our hosts then give a brief update on their thoughts on <em>Immortality</em>, and Cassie pitches <em>Fable Anniversary</em> to Ross for our next episode.</p>
+]]>
+      </itunes:summary>
+      <itunes:subtitle>The supernatural indie phenomenon that lets you be the bullet hell!</itunes:subtitle>
+      <enclosure length="52228096" type="audio/mpeg" url="https://cdn.pitchandplay.org/episodes/PPEpisode4.mp3" />
+      <guid>podlove-2023-02-12t16:13:43&#43;00:00-2553922b909a8f6</guid>
+      <pubDate>Mon, 27 Feb 2023 00:00:00 &#43;0000</pubDate>
+      <itunes:duration>01:12:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>4</itunes:episode>
+      <podcast:episode>4</podcast:episode>
+        
+            <podcast:chapters url="http://localhost:1313/vampire-survivors//chapters.json" type="application/json+chapters" />
+              
+    </item>
+  
+    
+    <item>
+      <title>Stardew Valley</title>
+      <link>http://localhost:1313/stardew-valley/</link>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:title>Stardew Valley</itunes:title>
+      <description>
+          In our full-length discussion of Stardew Valley, Cassie tries to find ways to convince Ross that Stardew Valley can work for him.
+      </description>
+      <content:encoded>
+        <![CDATA[<audio controls preload="auto" class="js-player">
+    <source src="https://cdn.pitchandplay.org/episodes/PPEpisode3.mp3">
+</audio>
+<p>This week&rsquo;s episode of Pitch &amp; Play, a podcast about actually playing the games your friends recommend, Ross shares his experiences with <em>Stardew Valley</em>. Cassie tries to find ways to make the game &ldquo;work&rdquo; for him, and we close on Ross pitching <em>Vampire Survivors</em> to Cassie.</p>
+]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<audio controls preload="auto" class="js-player">
+    <source src="https://cdn.pitchandplay.org/episodes/PPEpisode3.mp3">
+</audio>
+<p>This week&rsquo;s episode of Pitch &amp; Play, a podcast about actually playing the games your friends recommend, Ross shares his experiences with <em>Stardew Valley</em>. Cassie tries to find ways to make the game &ldquo;work&rdquo; for him, and we close on Ross pitching <em>Vampire Survivors</em> to Cassie.</p>
+]]>
+      </itunes:summary>
+      <itunes:subtitle>In our full-length discussion of Stardew Valley, Cassie tries to find ways to convince Ross that Stardew Valley can work for him.</itunes:subtitle>
+      <enclosure length="75390976" type="audio/mpeg" url="https://cdn.pitchandplay.org/episodes/PPEpisode3.mp3" />
+      <guid>podlove-2023-01-29t01:37:51&#43;00:00-9a6709055cb8f6a</guid>
+      <pubDate>Mon, 13 Feb 2023 00:00:00 &#43;0000</pubDate>
+      <itunes:duration>01:18:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>3</itunes:episode>
+      <podcast:episode>3</podcast:episode>
+        
+            <podcast:chapters url="http://localhost:1313/stardew-valley//chapters.json" type="application/json+chapters" />
+              
+    </item>
+  
+    
+    <item>
+      <title>Immortality</title>
+      <link>http://localhost:1313/immortality/</link>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:title>Immortality</itunes:title>
+      <description>
+          In this spoiler-filled discussion of Immortality, Cassie and Ross discuss their struggles with the presentation of the game and accessing the game&#39;s narrative.
+      </description>
+      <content:encoded>
+        <![CDATA[<audio controls preload="auto" class="js-player">
+    <source src="https://cdn.pitchandplay.org/episodes/PPEpisode2.mp3">
+</audio>
+<p>This week&rsquo;s episode of Pitch &amp; Play, a podcast about actually playing the games your friends recommend, includes our spoiler-filled discussion of Sam Barlow&rsquo;s latest joint, <em>Immortality</em> (2022). Cassie and Ross discuss their struggles with the presentation of the game and the accessibility of the game&rsquo;s story. Not interested in hearing about <em>Immortality</em>? Skip to the chapter marker to hear about our game for next week, as Cassie pitches her &ldquo;warm blanket&rdquo; game to Ross, <em>Stardew Valley</em>.</p>
+]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<audio controls preload="auto" class="js-player">
+    <source src="https://cdn.pitchandplay.org/episodes/PPEpisode2.mp3">
+</audio>
+<p>This week&rsquo;s episode of Pitch &amp; Play, a podcast about actually playing the games your friends recommend, includes our spoiler-filled discussion of Sam Barlow&rsquo;s latest joint, <em>Immortality</em> (2022). Cassie and Ross discuss their struggles with the presentation of the game and the accessibility of the game&rsquo;s story. Not interested in hearing about <em>Immortality</em>? Skip to the chapter marker to hear about our game for next week, as Cassie pitches her &ldquo;warm blanket&rdquo; game to Ross, <em>Stardew Valley</em>.</p>
+]]>
+      </itunes:summary>
+      <itunes:subtitle>In this spoiler-filled discussion of Immortality, Cassie and Ross discuss their struggles with the presentation of the game and accessing the game's narrative.</itunes:subtitle>
+      <enclosure length="88371200" type="audio/mpeg" url="https://cdn.pitchandplay.org/episodes/PPEpisode2.mp3" />
+      <guid>podlove-2023-01-24t00:52:25&#43;00:00-bb72677de870c7c</guid>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 &#43;0000</pubDate>
+      <itunes:duration>02:02:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>2</itunes:episode>
+      <podcast:episode>2</podcast:episode>
+        
+            <podcast:chapters url="http://localhost:1313/immortality//chapters.json" type="application/json+chapters" />
+              
+    </item>
+  
+    
+    <item>
+      <title>Introduction</title>
+      <link>http://localhost:1313/introduction/</link>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:title>Introduction</itunes:title>
+      <description>
+          Welcome to the first episode of Pitch and Play, a podcast about actually playing the games that your friends recommend!
+      </description>
+      <content:encoded>
+        <![CDATA[<audio controls preload="auto" class="js-player">
+    <source src="https://cdn.pitchandplay.org/episodes/PPEpisode1.mp3">
+</audio>
+<p>Welcome to the first episode of Pitch &amp; Play, a podcast about actually playing the games that your friends recommend! In this episode, Cassie and Ross introduce themselves and explain the backgrounds and perspectives that they each will bring to our discussions of games. Ross then pitches our first game to Cassie, Immortality (2022).</p>
+]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<audio controls preload="auto" class="js-player">
+    <source src="https://cdn.pitchandplay.org/episodes/PPEpisode1.mp3">
+</audio>
+<p>Welcome to the first episode of Pitch &amp; Play, a podcast about actually playing the games that your friends recommend! In this episode, Cassie and Ross introduce themselves and explain the backgrounds and perspectives that they each will bring to our discussions of games. Ross then pitches our first game to Cassie, Immortality (2022).</p>
+]]>
+      </itunes:summary>
+      <itunes:subtitle>Welcome to the first episode of Pitch and Play, a podcast about actually playing the games that your friends recommend!</itunes:subtitle>
+      <enclosure length="20451328" type="audio/mpeg" url="https://cdn.pitchandplay.org/episodes/PPEpisode1.mp3" />
+      <guid>podlove-2023-01-16t23:24:26&#43;00:00-b10c458ea67b923</guid>
+      <pubDate>Mon, 16 Jan 2023 00:00:00 &#43;0000</pubDate>
+      <itunes:duration>00:27:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>1</itunes:episode>
+      <podcast:episode>1</podcast:episode>
+        
+            <podcast:chapters url="http://localhost:1313/introduction//chapters.json" type="application/json+chapters" />
+              
+    </item>
+  </channel>
+</rss>

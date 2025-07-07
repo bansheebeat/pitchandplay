@@ -1,0 +1,13 @@
+baseURL = "https://pitchandplay.org"
+languageCode = "en-us"
+title = "Pitch & Play"
+theme = "pitch"
+
+[outputs]
+home = ["HTML", "RSS", "podcast" ] # Sets up podcast feed
+
+[outputFormats]
+    [outputFormats.podcast]
+        MediaType = "application/rss+xml"
+        BaseName = "feed" # Your feed will be located at example.org/feed.xml. If you edit this value, you need to edit line 43 in layouts/index.podcast.xml.
+        

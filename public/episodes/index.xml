@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Episodes on Pitch &amp; Play</title>
+    <link>http://localhost:1313/episodes/</link>
+    <description>Recent content in Episodes on Pitch &amp; Play</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/episodes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vampire Survivors</title>
+      <link>http://localhost:1313/vampire-survivors/</link>
+      <pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/vampire-survivors/</guid>
+      <description>&lt;audio controls preload=&#34;auto&#34; class=&#34;js-player&#34;&gt;&#xD;&#xA;    &lt;source src=&#34;https://cdn.pitchandplay.org/episodes/PPEpisode4.mp3&#34;&gt;&#xD;&#xA;&lt;/audio&gt;&#xA;&lt;p&gt;In this episode of Pitch &amp;amp; Play, an episode about actually playing the games your friends recommend, Cassie plays &lt;em&gt;Vampire Survivors&lt;/em&gt;, the game Ross pitched last episode. Our hosts then give a brief update on their thoughts on &lt;em&gt;Immortality&lt;/em&gt;, and Cassie pitches &lt;em&gt;Fable Anniversary&lt;/em&gt; to Ross for our next episode.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Stardew Valley</title>
+      <link>http://localhost:1313/stardew-valley/</link>
+      <pubDate>Mon, 13 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/stardew-valley/</guid>
+      <description>&lt;audio controls preload=&#34;auto&#34; class=&#34;js-player&#34;&gt;&#xD;&#xA;    &lt;source src=&#34;https://cdn.pitchandplay.org/episodes/PPEpisode3.mp3&#34;&gt;&#xD;&#xA;&lt;/audio&gt;&#xA;&lt;p&gt;This week&amp;rsquo;s episode of Pitch &amp;amp; Play, a podcast about actually playing the games your friends recommend, Ross shares his experiences with &lt;em&gt;Stardew Valley&lt;/em&gt;. Cassie tries to find ways to make the game &amp;ldquo;work&amp;rdquo; for him, and we close on Ross pitching &lt;em&gt;Vampire Survivors&lt;/em&gt; to Cassie.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Immortality</title>
+      <link>http://localhost:1313/immortality/</link>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/immortality/</guid>
+      <description>&lt;audio controls preload=&#34;auto&#34; class=&#34;js-player&#34;&gt;&#xD;&#xA;    &lt;source src=&#34;https://cdn.pitchandplay.org/episodes/PPEpisode2.mp3&#34;&gt;&#xD;&#xA;&lt;/audio&gt;&#xA;&lt;p&gt;This week&amp;rsquo;s episode of Pitch &amp;amp; Play, a podcast about actually playing the games your friends recommend, includes our spoiler-filled discussion of Sam Barlow&amp;rsquo;s latest joint, &lt;em&gt;Immortality&lt;/em&gt; (2022). Cassie and Ross discuss their struggles with the presentation of the game and the accessibility of the game&amp;rsquo;s story. Not interested in hearing about &lt;em&gt;Immortality&lt;/em&gt;? Skip to the chapter marker to hear about our game for next week, as Cassie pitches her &amp;ldquo;warm blanket&amp;rdquo; game to Ross, &lt;em&gt;Stardew Valley&lt;/em&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Introduction</title>
+      <link>http://localhost:1313/introduction/</link>
+      <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/introduction/</guid>
+      <description>&lt;audio controls preload=&#34;auto&#34; class=&#34;js-player&#34;&gt;&#xD;&#xA;    &lt;source src=&#34;https://cdn.pitchandplay.org/episodes/PPEpisode1.mp3&#34;&gt;&#xD;&#xA;&lt;/audio&gt;&#xA;&lt;p&gt;Welcome to the first episode of Pitch &amp;amp; Play, a podcast about actually playing the games that your friends recommend! In this episode, Cassie and Ross introduce themselves and explain the backgrounds and perspectives that they each will bring to our discussions of games. Ross then pitches our first game to Cassie, Immortality (2022).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
