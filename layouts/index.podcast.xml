@@ -53,10 +53,10 @@
     {{ range (where .Site.RegularPages "Section" "episodes") }}
     
     <item>
-      <title>{{ .Params.Title | plainify }}</title>
+      <title>{{ .Params.episodeTitle | plainify }}</title>
       <link>{{ .Permalink }}</link>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:title>{{ .Params.Title | plainify }}</itunes:title>
+      <itunes:title>{{ .Params.episodeTitle | plainify }}</itunes:title>
       <description>
           {{ .Params.episodeSubtitle | plainify }}
       </description>
