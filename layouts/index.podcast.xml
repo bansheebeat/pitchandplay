@@ -77,7 +77,7 @@
         {{ if eq .Params.episodeChapters false }}
             
         {{ else }}
-            <podcast:chapters url="{{ .Permalink }}/chapters.json" type="application/json+chapters" />
+            <podcast:chapters url="{{ .Permalink }}chapters.json" type="application/json+chapters" />
         {{ end }}      
     </item>
   {{ end }}</channel>
