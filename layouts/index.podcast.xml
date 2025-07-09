@@ -53,12 +53,12 @@
     {{ range (where .Site.RegularPages "Section" "episodes") }}
     
     <item>
-      <title>{{ .Params.Title }}</title>
+      <title>{{ .Params.Title | plainify }}</title>
       <link>{{ .Permalink }}</link>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:title>{{ .Params.episodeTitle }}</itunes:title>
+      <itunes:title>{{ .Params.Title | plainify }}</itunes:title>
       <description>
-          {{ .Params.episodeSubtitle }}
+          {{ .Params.episodeSubtitle | plainify }}
       </description>
       <content:encoded>
         {{ `<![CDATA[` | safeHTML }}{{ .Content }}{{ `]]>` | safeHTML }}
@@ -68,7 +68,7 @@
       </itunes:summary>
       <itunes:subtitle>{{ .Params.episodeSubtitle | plainify }}</itunes:subtitle>
       <enclosure length="{{ .Params.episodeLength }}" type="audio/mpeg" url="{{ .Params.episodeURL }}" />
-      <guid>{{ .Params.episodeGuid }}</guid>
+      <guid>PPEpisode{{ .Params.episodeNumber }}</guid>
       <pubDate>{{ .PublishDate.Format "Mon, 02 Jan 2006 15:04:00 -0700" }}</pubDate>
       <itunes:duration>{{ .Params.episodeDuration }}</itunes:duration>
       <itunes:explicit>false</itunes:explicit>

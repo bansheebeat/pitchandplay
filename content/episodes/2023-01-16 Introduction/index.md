@@ -1,6 +1,6 @@
 ---
 title: "Introduction"
-date: 2023-01-16
+date: 2023-01-16T06:00:24-04:00
 draft: false
 url: "introduction"
 episodeTitle: "Introduction"

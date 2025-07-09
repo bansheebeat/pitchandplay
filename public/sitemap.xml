@@ -2,26 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/episodes/</loc>
-    <lastmod>2023-02-27T00:00:00+00:00</lastmod>
+    <loc>https://pitchandplay.org/episodes/</loc>
+    <lastmod>2023-07-03T06:00:24-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2023-02-27T00:00:00+00:00</lastmod>
+    <loc>https://pitchandplay.org/</loc>
+    <lastmod>2023-07-03T06:00:24-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/vampire-survivors/</loc>
-    <lastmod>2023-02-27T00:00:00+00:00</lastmod>
+    <loc>https://pitchandplay.org/the-sims-bustin-out/</loc>
+    <lastmod>2023-07-03T06:00:24-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/stardew-valley/</loc>
-    <lastmod>2023-02-13T00:00:00+00:00</lastmod>
+    <loc>https://pitchandplay.org/the-legend-of-zelda-tears-of-the-kingdom-part-2/</loc>
+    <lastmod>2023-06-05T06:00:24-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/immortality/</loc>
-    <lastmod>2023-01-30T00:00:00+00:00</lastmod>
+    <loc>https://pitchandplay.org/dragon-age-origins-the-legend-of-zelda-tears-of-the-kingdom/</loc>
+    <lastmod>2023-05-22T06:00:24-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/introduction/</loc>
-    <lastmod>2023-01-16T00:00:00+00:00</lastmod>
+    <loc>https://pitchandplay.org/tony-hawks-american-wasteland/</loc>
+    <lastmod>2023-05-08T06:00:24-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://pitchandplay.org/rise-of-the-tomb-raider/</loc>
+    <lastmod>2023-04-24T06:00:24-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://pitchandplay.org/the-order-1886/</loc>
+    <lastmod>2023-04-10T06:00:24-04:00</lastmod>
+  </url><url>
+    <loc>https://pitchandplay.org/alttp/</loc>
+    <lastmod>2023-03-27T06:00:24-04:00</lastmod>
+  </url><url>
+    <loc>https://pitchandplay.org/fable-anniversary/</loc>
+    <lastmod>2023-03-13T06:00:24-04:00</lastmod>
+  </url><url>
+    <loc>https://pitchandplay.org/vampire-survivors/</loc>
+    <lastmod>2023-02-27T06:00:24-04:00</lastmod>
+  </url><url>
+    <loc>https://pitchandplay.org/stardew-valley/</loc>
+    <lastmod>2023-02-13T06:00:24-04:00</lastmod>
+  </url><url>
+    <loc>https://pitchandplay.org/immortality/</loc>
+    <lastmod>2023-01-30T06:00:24-04:00</lastmod>
+  </url><url>
+    <loc>https://pitchandplay.org/introduction/</loc>
+    <lastmod>2023-01-16T06:00:24-04:00</lastmod>
+  </url><url>
+    <loc>https://pitchandplay.org/categories/</loc>
+  </url><url>
+    <loc>https://pitchandplay.org/tags/</loc>
   </url>
 </urlset>

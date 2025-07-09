@@ -4,12 +4,12 @@
         <div class="info">
             <h2>Pitch & Play is a podcast about actually playing the games your friends recommend.</h2>
             <p>Every two weeks, Cassie and Ross take turns “pitching” a game for the other to play… and then we follow through on it! We then have an in-depth conversation about the game and decide whether the pitch was successful.</p>
-            <a href="https://google.com"><button type="button">Subscribe</button></a>
+            <a href="https://podnews.net/podcast/ia8z8"><button type="button">Subscribe</button></a>
         </div>
     </div>
-    <h2 class="episodes">Latest Episodes</h2>
+    <h2 class="episodes">Latest Episode</h2>
     <ul id="episodes">
-        {{ range ( where .Site.RegularPages "Type" "episodes" | first 5 ) }}
+        {{ range ( where .Site.RegularPages "Type" "episodes" | first 1 ) }}
           <li>
             <div class="thumb" style="background-image: url('{{ .Site.BaseURL }}/{{.Params.url }}/{{ .Params.featuredImage }}');">
             </div>
@@ -24,11 +24,13 @@
                   {{ .Params.episodeDuration }}
                 </span>
               </div>
-              <a href="{{ .Permalink }}"><h3>{{ .Title }}</h3></a>
-              {{ .Summary }}
+              <a href="{{ .Permalink }}" class="episodeTitle"><h3>{{ .Title }}</h3></a>
+              <p>{{ .Summary }}</p>
             </div>
           </li>
         {{ end }}
     </ul>
-    <a class="all" href="/episodes/">view all episodes ⇒</a>
+    <div class="all">
+      <a href="/episodes/">view all episodes ⇒</a>
+    </div>
 {{ end }}

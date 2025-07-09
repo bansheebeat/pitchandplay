@@ -1,6 +1,6 @@
 ---
 title: "Immortality"
-date: 2023-01-30
+date: 2023-01-30T06:00:24-04:00
 draft: false
 url: "immortality"
 episodeTitle: "Immortality"

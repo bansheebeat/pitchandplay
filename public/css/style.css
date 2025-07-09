@@ -14,31 +14,67 @@ body {
     margin: 0 auto;
 }
 
+a {
+    color: var(--blue);
+}
+
 /* header */
 header {
     display: flex;
-    align-items: baseline;
+    align-items: center;
     justify-content: space-between;
+    margin-bottom: 2%;
 
     #site {
         display: flex;
         align-items: baseline;
 
+        img {
+            width: 50px;
+            height: 50px;
+            border-radius: 15px;
+            margin-right: 15px;
+        }
+
         a {
             color: var(--black);
             text-decoration: none;
+            display: flex;
+            align-items: center;
         }
 
         h1 {
             font-size: 1rem;
             font-family: 'Space Mono', monospace;
-            margin-right: 15px;
+            margin: 0 15px 0 0;
+
         }
 
         p {
             color: var(--gray);
             font-size: .75rem;
+            margin: 5px 0 0 0;
         }
+    }
+
+    nav {
+        
+        a {
+            color: var(--blue);
+            font-family: 'Space Mono', monospace;
+        }
+    }
+}
+
+@media only screen and (max-width: 950px) {
+    #site p {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 350px) {
+    #site h1 {
+        display: none;
     }
 }
 
@@ -73,6 +109,18 @@ header {
         height: fit-content;
         border-radius: 15px;
         margin-right: 2%;
+    }
+
+    @media only screen and (max-width: 950px) {
+        img {
+            width: 150px;
+        }
+    }
+
+    @media only screen and (max-width: 600px) {
+        img {
+            display: none;
+        }
     }
 
     a {
@@ -122,6 +170,10 @@ h2.episodes {
         border-radius: 15px;
         display: flex;
 
+        @media only screen and (max-width: 600px) {
+            display: block;
+        }
+
         .thumb {
             background-position: center;
             background-size: cover;
@@ -132,11 +184,28 @@ h2.episodes {
             flex-shrink: 0;
         }
 
+        @media (min-width:600px) and (max-width:950px) {
+            .thumb {
+                width: 150px;
+                height: 150px;
+            }
+        }
+
+        @media only screen and (max-width: 600px) {
+            .thumb {
+                width: 100%;
+                margin-bottom: 15px;
+                height: 150px;
+            }
+        }
+
         .meta {
             color: var(--gray);
             font-size: .75rem;
             display: flex;
             align-items: center;
+            font-family: 'Space Mono', monospace;
+            text-transform: uppercase;
 
             svg {
                 width: 15px;
@@ -148,16 +217,217 @@ h2.episodes {
             }
         }
 
-        a {
+        a.episodeTitle {
             text-decoration: none;
             color: var(--blue);
             font-family: 'Space Mono', monospace;
             font-size: 2rem;
+
+            h3 {
+                margin: 0 0 -15px 0;
+            }
         }
 
-        h3 {
-            margin: 0;
+        @media only screen and (max-width: 600px) {
+            a.episodeTitle {
+                font-size: 1.5rem;
+            }
         }
+    }
+}
+
+.all {
+    text-align: center;
+
+    a {
+        font-size: 1.25rem;
+        padding: 2%;
+        border: 1px solid var(--blue);
+        display: inline-block;
+        border-radius: 15px;
+        font-family: 'Space Mono', monospace;
+        text-transform: uppercase;
+        text-decoration: none;
+        font-weight: bold;
+    }
+
+    a:hover {
+        color: var(--orange);
+        border-color: var(--orange);
+    }
+    
+}
+
+/* single */
+#cover {
+    height: 350px;
+    background-position: center;
+    background-color: var(--black);
+    background-blend-mode: overlay;
+    padding: 2%;
+    text-shadow: 2px 2px 5px rgba(51,51,51,.75);
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    margin-bottom: 2%;
+
+    h2 {
+        color: var(--orange);
+        font-family: 'Space Mono', monospace;
+        text-transform: uppercase;
+        line-height: 1;
+        font-size: 2.5rem;
+        margin-bottom: .5%;
+        margin-top: auto;
+    }
+
+    .info {
+        color: var(--white);
+        font-size: 1.5rem;
+        font-family: 'Space Mono', monospace;
+        text-transform: uppercase;
+
+        .meta {
+            display: flex;
+            align-items: center;
+        }
+
+        svg {
+            width: 20px;
+            margin-right: 2.5px;
+        }
+        
+        .date {
+            margin-right: 30px;
+        }
+    }
+}
+
+#content {
+
+}
+
+.postNav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    @media only screen and (max-width: 600px) {
+        align-items: stretch;
+    }
+
+    a {
+        padding: 1%;
+        border: 1px solid var(--light-gray);
+        border-radius: 15px;
+        width: 25%;
+        text-decoration: none;
+
+        @media only screen and (max-width: 600px) {
+            width: 45%;
+        }
+    }
+
+    a.link-reverse {
+        display: grid;
+        grid-template-columns: 1fr 10fr;
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+        grid-row-gap: 0px; 
+    }
+
+    a.link-forward {
+        display: grid;
+        grid-template-columns: 10fr 1fr;
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+        grid-row-gap: 0px;
+
+        .label, .title {
+            text-align: right;
+        }
+    }
+    
+    .arrow {
+        text-align: center;
+        font-size: 1.5rem;
+    }
+
+    .label {
+        color: var(--gray);
+        text-transform: uppercase;
+        font-family: 'Space Mono', monospace;
+        font-size: .75rem;
+        display: block;
+    }
+
+    .title {
+        display: block;
+    }
+}
+
+/* list */
+#list {
+    #episodes {
+
+        .plyr {
+            display: none;
+        }
+
+        li {
+
+            a.episodeTitle {
+                font-size: 1.5rem;
+            }
+
+            .thumb {
+                width: 150px;
+                height: 150px;
+            }
+
+            @media (min-width:600px) and (max-width:950px) {
+                .thumb {
+                    width: 150px;
+                    height: 150px;
+                }
+            }
+    
+            @media only screen and (max-width: 600px) {
+                .thumb {
+                    width: 100%;
+                    margin-bottom: 15px;
+                    height: 150px;
+                }
+            }
+        }
+    }
+}
+
+/* footer */
+footer {
+    background-color: var(--light-gray);
+    padding: 2%;
+    border-radius: 15px;
+    margin-top: 2%;
+    font-size: 90%;
+    text-align: center;
+
+    a {
+        text-decoration: none;
+    }
+
+    svg {
+        width: 30px;
+    }
+
+    .mastodon {
+        margin-right: 20px;
+        margin-left: 20px;
+    }
+
+    h2 {
+        font-family: 'Space Mono', monospace;
     }
 }
 
