@@ -3,7 +3,7 @@ title: "Dragon Age: Origins & The Legend of Zelda: Tears of the Kingdom"
 date: 2023-05-22T06:00:24-04:00
 draft: false
 url: "dragon-age-origins-the-legend-of-zelda-tears-of-the-kingdom"
-episodeTitle: "Dragon Age: Origins & The Legend of Zelda: Tears of the Kingdom"
+episodeTitle: "Dragon Age: Origins and The Legend of Zelda: Tears of the Kingdom"
 episodeSubtitle: "A double threat of an episode!"
 episodeLength: 108789760
 episodeURL: https://cdn.pitchandplay.org/episodes/PPEpisode10.mp3
