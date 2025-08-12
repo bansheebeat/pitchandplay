@@ -37,7 +37,7 @@
   xmlns:podcast="https://podcastindex.org/namespace/1.0"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>{{ .Site.Title | transform.XMLEscape }}</title>
+    <title>Pitch and Play</title>
     <link>{{ .Permalink }}</link>
     <description>A podcast about actually playing the games your friends recommend.</description>
     <generator>Hugo</generator>
