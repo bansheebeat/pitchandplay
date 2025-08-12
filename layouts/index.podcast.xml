@@ -43,6 +43,7 @@
     <generator>Hugo</generator>
     <language>{{ site.Language.LanguageCode }}</language>{{ with $authorEmail }}
     <copyright>{{ . }}</copyright>{{ end }}{{ if not .Date.IsZero }}
+    <!-- hello? -->
 
     <itunes:author>Pitch and Play</itunes:author>
     <itunes:type>episodic</itunes:type>

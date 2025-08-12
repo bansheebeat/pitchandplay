@@ -6,471 +6,292 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Pitch and Play</title>
-    <link>https://pitchandplay.org</link>
-    <language>en-us</language>
-    <copyright>and#169; 2025 Pitch and Play</copyright>
-    <itunes:author>Pitch and Play</itunes:author>
+    <link>http://localhost:1313/</link>
     <description>A podcast about actually playing the games your friends recommend.</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
+    <language>en-us</language>
     
+
+    <itunes:author>Pitch and Play</itunes:author>
     <itunes:type>episodic</itunes:type>
-    <itunes:owner>
-      <itunes:name>Pitch and Play</itunes:name>
-      <itunes:email>hello@pitchandplay.org</itunes:email>
-    </itunes:owner>
     <itunes:image href="https://pitchandplay.org/cover.png" />
     <image>
       <url>https://pitchandplay.org/cover.png</url>
-      <title>Pitch and Play</title>
-      <link>https://pitchandplay.org</link>
     </image>
     <itunes:category text="Leisure">
       <itunes:category text="Video Games"/>
     </itunes:category>
     <itunes:explicit>true</itunes:explicit>
-    <itunes:summary>A podcast about actually playing the games your friends recommend.</itunes:summary>
     <atom:link 
-      href="https://pitchandplay.org/feed.xml" 
+      href="http://localhost:1313/feed.xml" 
       rel="self" 
       type="application/rss+xml" />
-    <lastBuildDate>Mon, 03 Jul 2023 06:00:24 -0400</lastBuildDate>
-    <itunes:new-feed-url>
-      https://pitchandplay.org/feed.xml
-    </itunes:new-feed-url>
 
-    
-    
+    <lastBuildDate>Mon, 03 Jul 2023 06:00:24 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>The Sims Bustin&#39; Out</title>
-      <link>https://pitchandplay.org/the-sims-bustin-out/</link>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:title>The Sims Bustin' Out</itunes:title>
-      <description>
-          Visit SimValley and meet your demise at the hands of the Veloci-Rooster.
-      </description>
-      <content:encoded>
-        <![CDATA[<audio controls preload="metadata" class="js-player">
-    <source src="https://cdn.pitchandplay.org/episodes/PPEpisode12.mp3">
-</audio>
-<p>We&rsquo;re back! After a missed week due to Life™, Cassie and Ross sit down to discuss <em>The Sims Bustin&rsquo; Out</em> on the GameBoy Advance, a childhood favorite of Cassie&rsquo;s! They focus on the design of the game, how the developers met the challenge (or didn&rsquo;t meet) of adapting a PC game to a handheld format, and the general hilarity of the dialogue and storytelling.</p>
-<p>We do not have a pitch attached to this episode as Cassie is still working on Dragon Age! You can hear her thoughts on the first third of the game <a href="https://pitchandplay.org/dragon-age-origins-the-legend-of-zelda-tears-of-the-kingdom/">on a previous episode</a>.</p>
-]]>
-      </content:encoded>
-      <itunes:summary>
-        <![CDATA[<audio controls preload="metadata" class="js-player">
-    <source src="https://cdn.pitchandplay.org/episodes/PPEpisode12.mp3">
-</audio>
-<p>We&rsquo;re back! After a missed week due to Life™, Cassie and Ross sit down to discuss <em>The Sims Bustin&rsquo; Out</em> on the GameBoy Advance, a childhood favorite of Cassie&rsquo;s! They focus on the design of the game, how the developers met the challenge (or didn&rsquo;t meet) of adapting a PC game to a handheld format, and the general hilarity of the dialogue and storytelling.</p>
-<p>We do not have a pitch attached to this episode as Cassie is still working on Dragon Age! You can hear her thoughts on the first third of the game <a href="https://pitchandplay.org/dragon-age-origins-the-legend-of-zelda-tears-of-the-kingdom/">on a previous episode</a>.</p>
-]]>
-      </itunes:summary>
-      <itunes:subtitle>Visit SimValley and meet your demise at the hands of the Veloci-Rooster.</itunes:subtitle>
-      <enclosure length="49090560" type="audio/mpeg" url="https://cdn.pitchandplay.org/episodes/PPEpisode12.mp3" />
-      <guid>PPEpisode12</guid>
-      <pubDate>Mon, 03 Jul 2023 06:00:00 -0400</pubDate>
-      <itunes:duration>00:42:20</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episode>12</itunes:episode>
-      <podcast:episode>12</podcast:episode>
+        <title>The Sims Bustin&#39; Out</title>
+        <link>http://localhost:1313/the-sims-bustin-out/</link>
+        <pubDate>Mon, 03 Jul 2023 06:00:24 -0400</pubDate>
+        <guid>PPEpisode12</guid>
+        <description>&lt;audio controls preload=&#34;metadata&#34; class=&#34;js-player&#34;&gt;&#xD;&#xA;    &lt;source src=&#34;https://cdn.pitchandplay.org/episodes/PPEpisode12.mp3&#34;&gt;&#xD;&#xA;&lt;/audio&gt;&#xA;&lt;p&gt;We&amp;rsquo;re back! After a missed week due to Life™, Cassie and Ross sit down to discuss &lt;em&gt;The Sims Bustin&amp;rsquo; Out&lt;/em&gt; on the GameBoy Advance, a childhood favorite of Cassie&amp;rsquo;s! They focus on the design of the game, how the developers met the challenge (or didn&amp;rsquo;t meet) of adapting a PC game to a handheld format, and the general hilarity of the dialogue and storytelling.&lt;/p&gt;&#xA;&lt;p&gt;We do not have a pitch attached to this episode as Cassie is still working on Dragon Age! You can hear her thoughts on the first third of the game &lt;a href=&#34;https://pitchandplay.org/dragon-age-origins-the-legend-of-zelda-tears-of-the-kingdom/&#34;&gt;on a previous episode&lt;/a&gt;.&lt;/p&gt;&#xA;</description>
+
+        <itunes:title>The Sims Bustin&#39; Out</itunes:title>
+        <itunes:episodeType>full</itunes:episodeType>
+        <content:encoded>&lt;audio controls preload=&#34;metadata&#34; class=&#34;js-player&#34;&gt;&#xD;&#xA;    &lt;source src=&#34;https://cdn.pitchandplay.org/episodes/PPEpisode12.mp3&#34;&gt;&#xD;&#xA;&lt;/audio&gt;&#xA;&lt;p&gt;We&amp;rsquo;re back! After a missed week due to Life™, Cassie and Ross sit down to discuss &lt;em&gt;The Sims Bustin&amp;rsquo; Out&lt;/em&gt; on the GameBoy Advance, a childhood favorite of Cassie&amp;rsquo;s! They focus on the design of the game, how the developers met the challenge (or didn&amp;rsquo;t meet) of adapting a PC game to a handheld format, and the general hilarity of the dialogue and storytelling.&lt;/p&gt;&#xA;&lt;p&gt;We do not have a pitch attached to this episode as Cassie is still working on Dragon Age! You can hear her thoughts on the first third of the game &lt;a href=&#34;https://pitchandplay.org/dragon-age-origins-the-legend-of-zelda-tears-of-the-kingdom/&#34;&gt;on a previous episode&lt;/a&gt;.&lt;/p&gt;&#xA;</content:encoded>
+        <itunes:subtitle>Visit SimValley and meet your demise at the hands of the Veloci-Rooster.</itunes:subtitle>
+        <enclosure length="49090560" type="audio/mpeg" url="https://cdn.pitchandplay.org/episodes/PPEpisode12.mp3" />
+        <itunes:duration>00:42:20</itunes:duration>
+        <itunes:explicit>true</itunes:explicit>
+        <itunes:episode>12</itunes:episode>
+        <itunes:season>1</itunes:season>
         
-            <podcast:chapters url="https://pitchandplay.org/the-sims-bustin-out//chapters.json" type="application/json+chapters" />
-              
+                <podcast:chapters url="http://localhost:1313/the-sims-bustin-out/chapters.json" type="application/json+chapters" />
+        
+        
+            
     </item>
-  
-    
     <item>
-      <title>The Legend of Zelda: Tears of the Kingdom (Part 2)</title>
-      <link>https://pitchandplay.org/the-legend-of-zelda-tears-of-the-kingdom-part-2/</link>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:title>The Legend of Zelda: Tears of the Kingdom (Part 2)</itunes:title>
-      <description>
-          As above, so below.
-      </description>
-      <content:encoded>
-        <![CDATA[<audio controls preload="metadata" class="js-player">
-    <source src="https://cdn.pitchandplay.org/episodes/PPEpisode11.mp3">
-</audio>
-<p>This week on Pitch &amp; Play we break our format yet again to talk more about <em>The Legend of Zelda: Tears of Kingdom</em> because it&rsquo;s our podcast and we make the rules, OK? Cassie and Ross invite special guest Joe, known <em>Breath of the Wild</em> fan, to gush about Nintendo&rsquo;s latest release and how we just want to spend all of our time in the depths. Cassie closes the episode by pitching yet another banger to Ross, <em>The Sims Bustin&rsquo; Out</em> for GBA, which he is sure to like and enjoy.</p>
-]]>
-      </content:encoded>
-      <itunes:summary>
-        <![CDATA[<audio controls preload="metadata" class="js-player">
-    <source src="https://cdn.pitchandplay.org/episodes/PPEpisode11.mp3">
-</audio>
-<p>This week on Pitch &amp; Play we break our format yet again to talk more about <em>The Legend of Zelda: Tears of Kingdom</em> because it&rsquo;s our podcast and we make the rules, OK? Cassie and Ross invite special guest Joe, known <em>Breath of the Wild</em> fan, to gush about Nintendo&rsquo;s latest release and how we just want to spend all of our time in the depths. Cassie closes the episode by pitching yet another banger to Ross, <em>The Sims Bustin&rsquo; Out</em> for GBA, which he is sure to like and enjoy.</p>
-]]>
-      </itunes:summary>
-      <itunes:subtitle>As above, so below.</itunes:subtitle>
-      <enclosure length="81944576" type="audio/mpeg" url="https://cdn.pitchandplay.org/episodes/PPEpisode11.mp3" />
-      <guid>PPEpisode11</guid>
-      <pubDate>Mon, 05 Jun 2023 06:00:00 -0400</pubDate>
-      <itunes:duration>01:53:23</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episode>11</itunes:episode>
-      <podcast:episode>11</podcast:episode>
+        <title>The Legend of Zelda: Tears of the Kingdom (Part 2)</title>
+        <link>http://localhost:1313/the-legend-of-zelda-tears-of-the-kingdom-part-2/</link>
+        <pubDate>Mon, 05 Jun 2023 06:00:24 -0400</pubDate>
+        <guid>PPEpisode11</guid>
+        <description>&lt;audio controls preload=&#34;metadata&#34; class=&#34;js-player&#34;&gt;&#xD;&#xA;    &lt;source src=&#34;https://cdn.pitchandplay.org/episodes/PPEpisode11.mp3&#34;&gt;&#xD;&#xA;&lt;/audio&gt;&#xA;&lt;p&gt;This week on Pitch &amp;amp; Play we break our format yet again to talk more about &lt;em&gt;The Legend of Zelda: Tears of Kingdom&lt;/em&gt; because it&amp;rsquo;s our podcast and we make the rules, OK? Cassie and Ross invite special guest Joe, known &lt;em&gt;Breath of the Wild&lt;/em&gt; fan, to gush about Nintendo&amp;rsquo;s latest release and how we just want to spend all of our time in the depths. Cassie closes the episode by pitching yet another banger to Ross, &lt;em&gt;The Sims Bustin&amp;rsquo; Out&lt;/em&gt; for GBA, which he is sure to like and enjoy.&lt;/p&gt;&#xA;</description>
+
+        <itunes:title>The Legend of Zelda: Tears of the Kingdom (Part 2)</itunes:title>
+        <itunes:episodeType>full</itunes:episodeType>
+        <content:encoded>&lt;audio controls preload=&#34;metadata&#34; class=&#34;js-player&#34;&gt;&#xD;&#xA;    &lt;source src=&#34;https://cdn.pitchandplay.org/episodes/PPEpisode11.mp3&#34;&gt;&#xD;&#xA;&lt;/audio&gt;&#xA;&lt;p&gt;This week on Pitch &amp;amp; Play we break our format yet again to talk more about &lt;em&gt;The Legend of Zelda: Tears of Kingdom&lt;/em&gt; because it&amp;rsquo;s our podcast and we make the rules, OK? Cassie and Ross invite special guest Joe, known &lt;em&gt;Breath of the Wild&lt;/em&gt; fan, to gush about Nintendo&amp;rsquo;s latest release and how we just want to spend all of our time in the depths. Cassie closes the episode by pitching yet another banger to Ross, &lt;em&gt;The Sims Bustin&amp;rsquo; Out&lt;/em&gt; for GBA, which he is sure to like and enjoy.&lt;/p&gt;&#xA;</content:encoded>
+        <itunes:subtitle>As above, so below.</itunes:subtitle>
+        <enclosure length="81944576" type="audio/mpeg" url="https://cdn.pitchandplay.org/episodes/PPEpisode11.mp3" />
+        <itunes:duration>01:53:23</itunes:duration>
+        <itunes:explicit>true</itunes:explicit>
+        <itunes:episode>11</itunes:episode>
+        <itunes:season>1</itunes:season>
         
-            <podcast:chapters url="https://pitchandplay.org/the-legend-of-zelda-tears-of-the-kingdom-part-2//chapters.json" type="application/json+chapters" />
-              
+                <podcast:chapters url="http://localhost:1313/the-legend-of-zelda-tears-of-the-kingdom-part-2/chapters.json" type="application/json+chapters" />
+        
+        
+            
     </item>
-  
-    
     <item>
-      <title>Dragon Age: Origins & The Legend of Zelda: Tears of the Kingdom</title>
-      <link>https://pitchandplay.org/dragon-age-origins-the-legend-of-zelda-tears-of-the-kingdom/</link>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:title>Dragon Age: Origins & The Legend of Zelda: Tears of the Kingdom</itunes:title>
-      <description>
-          A double threat of an episode!
-      </description>
-      <content:encoded>
-        <![CDATA[<audio controls preload="metadata" class="js-player">
-    <source src="https://cdn.pitchandplay.org/episodes/PPEpisode10.mp3">
-</audio>
-<p>This week on Pitch &amp; Play we change up the format a little! We check in on Cassie&rsquo;s progress on <em>Dragon Age: Origins</em>, which is about a third of the way through (Alistair is the worst). We then turn our attention to <em>The Legend of Zelda: Tears of the Kingdom</em>, discussing our feelings on <em>Breath of the Wild</em> and our very early impressions on how the sequel remedies much of our pain points with it.</p>
-]]>
-      </content:encoded>
-      <itunes:summary>
-        <![CDATA[<audio controls preload="metadata" class="js-player">
-    <source src="https://cdn.pitchandplay.org/episodes/PPEpisode10.mp3">
-</audio>
-<p>This week on Pitch &amp; Play we change up the format a little! We check in on Cassie&rsquo;s progress on <em>Dragon Age: Origins</em>, which is about a third of the way through (Alistair is the worst). We then turn our attention to <em>The Legend of Zelda: Tears of the Kingdom</em>, discussing our feelings on <em>Breath of the Wild</em> and our very early impressions on how the sequel remedies much of our pain points with it.</p>
-]]>
-      </itunes:summary>
-      <itunes:subtitle>A double threat of an episode!</itunes:subtitle>
-      <enclosure length="108789760" type="audio/mpeg" url="https://cdn.pitchandplay.org/episodes/PPEpisode10.mp3" />
-      <guid>PPEpisode10</guid>
-      <pubDate>Mon, 22 May 2023 06:00:00 -0400</pubDate>
-      <itunes:duration>01:52:59</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episode>10</itunes:episode>
-      <podcast:episode>10</podcast:episode>
+        <title>Dragon Age: Origins &amp; The Legend of Zelda: Tears of the Kingdom</title>
+        <link>http://localhost:1313/dragon-age-origins-the-legend-of-zelda-tears-of-the-kingdom/</link>
+        <pubDate>Mon, 22 May 2023 06:00:24 -0400</pubDate>
+        <guid>PPEpisode10</guid>
+        <description>&lt;audio controls preload=&#34;metadata&#34; class=&#34;js-player&#34;&gt;&#xD;&#xA;    &lt;source src=&#34;https://cdn.pitchandplay.org/episodes/PPEpisode10.mp3&#34;&gt;&#xD;&#xA;&lt;/audio&gt;&#xA;&lt;p&gt;This week on Pitch &amp;amp; Play we change up the format a little! We check in on Cassie&amp;rsquo;s progress on &lt;em&gt;Dragon Age: Origins&lt;/em&gt;, which is about a third of the way through (Alistair is the worst). We then turn our attention to &lt;em&gt;The Legend of Zelda: Tears of the Kingdom&lt;/em&gt;, discussing our feelings on &lt;em&gt;Breath of the Wild&lt;/em&gt; and our very early impressions on how the sequel remedies much of our pain points with it.&lt;/p&gt;&#xA;</description>
+
+        <itunes:title>Dragon Age: Origins &amp; The Legend of Zelda: Tears of the Kingdom</itunes:title>
+        <itunes:episodeType>full</itunes:episodeType>
+        <content:encoded>&lt;audio controls preload=&#34;metadata&#34; class=&#34;js-player&#34;&gt;&#xD;&#xA;    &lt;source src=&#34;https://cdn.pitchandplay.org/episodes/PPEpisode10.mp3&#34;&gt;&#xD;&#xA;&lt;/audio&gt;&#xA;&lt;p&gt;This week on Pitch &amp;amp; Play we change up the format a little! We check in on Cassie&amp;rsquo;s progress on &lt;em&gt;Dragon Age: Origins&lt;/em&gt;, which is about a third of the way through (Alistair is the worst). We then turn our attention to &lt;em&gt;The Legend of Zelda: Tears of the Kingdom&lt;/em&gt;, discussing our feelings on &lt;em&gt;Breath of the Wild&lt;/em&gt; and our very early impressions on how the sequel remedies much of our pain points with it.&lt;/p&gt;&#xA;</content:encoded>
+        <itunes:subtitle>A double threat of an episode!</itunes:subtitle>
+        <enclosure length="108789760" type="audio/mpeg" url="https://cdn.pitchandplay.org/episodes/PPEpisode10.mp3" />
+        <itunes:duration>01:52:59</itunes:duration>
+        <itunes:explicit>true</itunes:explicit>
+        <itunes:episode>10</itunes:episode>
+        <itunes:season>1</itunes:season>
         
-            <podcast:chapters url="https://pitchandplay.org/dragon-age-origins-the-legend-of-zelda-tears-of-the-kingdom//chapters.json" type="application/json+chapters" />
-              
+                <podcast:chapters url="http://localhost:1313/dragon-age-origins-the-legend-of-zelda-tears-of-the-kingdom/chapters.json" type="application/json+chapters" />
+        
+        
+            
     </item>
-  
-    
     <item>
-      <title>Tony Hawk&#39;s American Wasteland</title>
-      <link>https://pitchandplay.org/tony-hawks-american-wasteland/</link>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:title>Tony Hawk's American Wasteland</itunes:title>
-      <description>
-          Welcome to the Wasteland.
-      </description>
-      <content:encoded>
-        <![CDATA[<audio controls preload="metadata" class="js-player">
-    <source src="https://cdn.pitchandplay.org/episodes/PPEpisode9.mp3">
-</audio>
-<p>This week on Pitch &amp; Play, Cassie abuses her privileges of forcing others to play games she likes by making Ross play <em>Tony Hawk&rsquo;s American Wasteland</em> and relives her childhood fantasies of being a cool skateboarder instead of a boring adult. Ross and Cassie dig into the (admittedly sparse) narrative, at times bloated gameplay, and dope soundtrack (can you guess who writes these summaries?). Ross then pitches <em>Dragon Age Origins</em> to Cassie. Our pitch for <em>Dragon Age</em> is extra long as Cassie and Ross attempt to tease out the &ldquo;best&rdquo; way to approach a large BioWare RPG — especially one that has been a long time coming for Cassie.</p>
-]]>
-      </content:encoded>
-      <itunes:summary>
-        <![CDATA[<audio controls preload="metadata" class="js-player">
-    <source src="https://cdn.pitchandplay.org/episodes/PPEpisode9.mp3">
-</audio>
-<p>This week on Pitch &amp; Play, Cassie abuses her privileges of forcing others to play games she likes by making Ross play <em>Tony Hawk&rsquo;s American Wasteland</em> and relives her childhood fantasies of being a cool skateboarder instead of a boring adult. Ross and Cassie dig into the (admittedly sparse) narrative, at times bloated gameplay, and dope soundtrack (can you guess who writes these summaries?). Ross then pitches <em>Dragon Age Origins</em> to Cassie. Our pitch for <em>Dragon Age</em> is extra long as Cassie and Ross attempt to tease out the &ldquo;best&rdquo; way to approach a large BioWare RPG — especially one that has been a long time coming for Cassie.</p>
-]]>
-      </itunes:summary>
-      <itunes:subtitle>Welcome to the Wasteland.</itunes:subtitle>
-      <enclosure length="113414144" type="audio/mpeg" url="https://cdn.pitchandplay.org/episodes/PPEpisode9.mp3" />
-      <guid>PPEpisode9</guid>
-      <pubDate>Mon, 08 May 2023 06:00:00 -0400</pubDate>
-      <itunes:duration>01:57:48</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episode>9</itunes:episode>
-      <podcast:episode>9</podcast:episode>
+        <title>Tony Hawk&#39;s American Wasteland</title>
+        <link>http://localhost:1313/tony-hawks-american-wasteland/</link>
+        <pubDate>Mon, 08 May 2023 06:00:24 -0400</pubDate>
+        <guid>PPEpisode9</guid>
+        <description>&lt;audio controls preload=&#34;metadata&#34; class=&#34;js-player&#34;&gt;&#xD;&#xA;    &lt;source src=&#34;https://cdn.pitchandplay.org/episodes/PPEpisode9.mp3&#34;&gt;&#xD;&#xA;&lt;/audio&gt;&#xA;&lt;p&gt;This week on Pitch &amp;amp; Play, Cassie abuses her privileges of forcing others to play games she likes by making Ross play &lt;em&gt;Tony Hawk&amp;rsquo;s American Wasteland&lt;/em&gt; and relives her childhood fantasies of being a cool skateboarder instead of a boring adult. Ross and Cassie dig into the (admittedly sparse) narrative, at times bloated gameplay, and dope soundtrack (can you guess who writes these summaries?). Ross then pitches &lt;em&gt;Dragon Age Origins&lt;/em&gt; to Cassie. Our pitch for &lt;em&gt;Dragon Age&lt;/em&gt; is extra long as Cassie and Ross attempt to tease out the &amp;ldquo;best&amp;rdquo; way to approach a large BioWare RPG — especially one that has been a long time coming for Cassie.&lt;/p&gt;&#xA;</description>
+
+        <itunes:title>Tony Hawk&#39;s American Wasteland</itunes:title>
+        <itunes:episodeType>full</itunes:episodeType>
+        <content:encoded>&lt;audio controls preload=&#34;metadata&#34; class=&#34;js-player&#34;&gt;&#xD;&#xA;    &lt;source src=&#34;https://cdn.pitchandplay.org/episodes/PPEpisode9.mp3&#34;&gt;&#xD;&#xA;&lt;/audio&gt;&#xA;&lt;p&gt;This week on Pitch &amp;amp; Play, Cassie abuses her privileges of forcing others to play games she likes by making Ross play &lt;em&gt;Tony Hawk&amp;rsquo;s American Wasteland&lt;/em&gt; and relives her childhood fantasies of being a cool skateboarder instead of a boring adult. Ross and Cassie dig into the (admittedly sparse) narrative, at times bloated gameplay, and dope soundtrack (can you guess who writes these summaries?). Ross then pitches &lt;em&gt;Dragon Age Origins&lt;/em&gt; to Cassie. Our pitch for &lt;em&gt;Dragon Age&lt;/em&gt; is extra long as Cassie and Ross attempt to tease out the &amp;ldquo;best&amp;rdquo; way to approach a large BioWare RPG — especially one that has been a long time coming for Cassie.&lt;/p&gt;&#xA;</content:encoded>
+        <itunes:subtitle>Welcome to the Wasteland.</itunes:subtitle>
+        <enclosure length="113414144" type="audio/mpeg" url="https://cdn.pitchandplay.org/episodes/PPEpisode9.mp3" />
+        <itunes:duration>01:57:48</itunes:duration>
+        <itunes:explicit>true</itunes:explicit>
+        <itunes:episode>9</itunes:episode>
+        <itunes:season>1</itunes:season>
         
-            <podcast:chapters url="https://pitchandplay.org/tony-hawks-american-wasteland//chapters.json" type="application/json+chapters" />
-              
+                <podcast:chapters url="http://localhost:1313/tony-hawks-american-wasteland/chapters.json" type="application/json+chapters" />
+        
+        
+            
     </item>
-  
-    
     <item>
-      <title>Rise of the Tomb Raider</title>
-      <link>https://pitchandplay.org/rise-of-the-tomb-raider/</link>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:title>Rise of the Tomb Raider</itunes:title>
-      <description>
-          We become who we're meant to be.
-      </description>
-      <content:encoded>
-        <![CDATA[<audio controls preload="metadata" class="js-player">
-    <source src="https://cdn.pitchandplay.org/episodes/PPEpisode8.mp3">
-</audio>
-<p>This episode of Pitch &amp; Play covers <em>Rise of the Tomb Raider</em>, the second game in the Tomb Raider &ldquo;Survivor Trilogy.&rdquo; Cassie and Ross review the at times incoherent (but nevertheless entertaining) narrative, gameplay loop, and expansive side content. Cassie then recommends a game to Ross for our next episode: <em>Tony Hawk&rsquo;s American Wasteland</em>.</p>
-]]>
-      </content:encoded>
-      <itunes:summary>
-        <![CDATA[<audio controls preload="metadata" class="js-player">
-    <source src="https://cdn.pitchandplay.org/episodes/PPEpisode8.mp3">
-</audio>
-<p>This episode of Pitch &amp; Play covers <em>Rise of the Tomb Raider</em>, the second game in the Tomb Raider &ldquo;Survivor Trilogy.&rdquo; Cassie and Ross review the at times incoherent (but nevertheless entertaining) narrative, gameplay loop, and expansive side content. Cassie then recommends a game to Ross for our next episode: <em>Tony Hawk&rsquo;s American Wasteland</em>.</p>
-]]>
-      </itunes:summary>
-      <itunes:subtitle>We become who we're meant to be.</itunes:subtitle>
-      <enclosure length="87461888" type="audio/mpeg" url="https://cdn.pitchandplay.org/episodes/PPEpisode8.mp3" />
-      <guid>PPEpisode8</guid>
-      <pubDate>Mon, 24 Apr 2023 06:00:00 -0400</pubDate>
-      <itunes:duration>01:30:46</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episode>8</itunes:episode>
-      <podcast:episode>8</podcast:episode>
+        <title>Rise of the Tomb Raider</title>
+        <link>http://localhost:1313/rise-of-the-tomb-raider/</link>
+        <pubDate>Mon, 24 Apr 2023 06:00:24 -0400</pubDate>
+        <guid>PPEpisode8</guid>
+        <description>&lt;audio controls preload=&#34;metadata&#34; class=&#34;js-player&#34;&gt;&#xD;&#xA;    &lt;source src=&#34;https://cdn.pitchandplay.org/episodes/PPEpisode8.mp3&#34;&gt;&#xD;&#xA;&lt;/audio&gt;&#xA;&lt;p&gt;This episode of Pitch &amp;amp; Play covers &lt;em&gt;Rise of the Tomb Raider&lt;/em&gt;, the second game in the Tomb Raider &amp;ldquo;Survivor Trilogy.&amp;rdquo; Cassie and Ross review the at times incoherent (but nevertheless entertaining) narrative, gameplay loop, and expansive side content. Cassie then recommends a game to Ross for our next episode: &lt;em&gt;Tony Hawk&amp;rsquo;s American Wasteland&lt;/em&gt;.&lt;/p&gt;&#xA;</description>
+
+        <itunes:title>Rise of the Tomb Raider</itunes:title>
+        <itunes:episodeType>full</itunes:episodeType>
+        <content:encoded>&lt;audio controls preload=&#34;metadata&#34; class=&#34;js-player&#34;&gt;&#xD;&#xA;    &lt;source src=&#34;https://cdn.pitchandplay.org/episodes/PPEpisode8.mp3&#34;&gt;&#xD;&#xA;&lt;/audio&gt;&#xA;&lt;p&gt;This episode of Pitch &amp;amp; Play covers &lt;em&gt;Rise of the Tomb Raider&lt;/em&gt;, the second game in the Tomb Raider &amp;ldquo;Survivor Trilogy.&amp;rdquo; Cassie and Ross review the at times incoherent (but nevertheless entertaining) narrative, gameplay loop, and expansive side content. Cassie then recommends a game to Ross for our next episode: &lt;em&gt;Tony Hawk&amp;rsquo;s American Wasteland&lt;/em&gt;.&lt;/p&gt;&#xA;</content:encoded>
+        <itunes:subtitle>We become who we&amp;rsquo;re meant to be.</itunes:subtitle>
+        <enclosure length="87461888" type="audio/mpeg" url="https://cdn.pitchandplay.org/episodes/PPEpisode8.mp3" />
+        <itunes:duration>01:30:46</itunes:duration>
+        <itunes:explicit>true</itunes:explicit>
+        <itunes:episode>8</itunes:episode>
+        <itunes:season>1</itunes:season>
         
-            <podcast:chapters url="https://pitchandplay.org/rise-of-the-tomb-raider//chapters.json" type="application/json+chapters" />
-              
+                <podcast:chapters url="http://localhost:1313/rise-of-the-tomb-raider/chapters.json" type="application/json+chapters" />
+        
+        
+            
     </item>
-  
-    
     <item>
-      <title>The Order 1886</title>
-      <link>https://pitchandplay.org/the-order-1886/</link>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:title>The Order 1886</itunes:title>
-      <description>
-          The wall dividing life and death is so thin.
-      </description>
-      <content:encoded>
-        <![CDATA[<audio controls preload="metadata" class="js-player">
-    <source src="https://cdn.pitchandplay.org/episodes/PPEpisode7.mp3">
-</audio>
-<p>This week on Pitch &amp; Play, Ross follows through on Cassie&rsquo;s recommendation to play the beleaguered PlayStation 4 exclusive <em>The Order 1886</em>. The two discuss the potential in the premise of the game, its incredible graphics (that still hold up in 2023!), and ultimate failure to deliver a satisfying end product. The episode concludes with Ross&rsquo;s pitch to Cassie for the next episode, <em>Rise of the Tomb Raider</em>, the second game in the Tomb Raider &ldquo;Survivor Trilogy.&rdquo;</p>
-]]>
-      </content:encoded>
-      <itunes:summary>
-        <![CDATA[<audio controls preload="metadata" class="js-player">
-    <source src="https://cdn.pitchandplay.org/episodes/PPEpisode7.mp3">
-</audio>
-<p>This week on Pitch &amp; Play, Ross follows through on Cassie&rsquo;s recommendation to play the beleaguered PlayStation 4 exclusive <em>The Order 1886</em>. The two discuss the potential in the premise of the game, its incredible graphics (that still hold up in 2023!), and ultimate failure to deliver a satisfying end product. The episode concludes with Ross&rsquo;s pitch to Cassie for the next episode, <em>Rise of the Tomb Raider</em>, the second game in the Tomb Raider &ldquo;Survivor Trilogy.&rdquo;</p>
-]]>
-      </itunes:summary>
-      <itunes:subtitle>The wall dividing life and death is so thin.</itunes:subtitle>
-      <enclosure length="81936384" type="audio/mpeg" url="https://cdn.pitchandplay.org/episodes/PPEpisode7.mp3" />
-      <guid>PPEpisode7</guid>
-      <pubDate>Mon, 10 Apr 2023 06:00:00 -0400</pubDate>
-      <itunes:duration>01:25:01</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episode>7</itunes:episode>
-      <podcast:episode>7</podcast:episode>
+        <title>The Order 1886</title>
+        <link>http://localhost:1313/the-order-1886/</link>
+        <pubDate>Mon, 10 Apr 2023 06:00:24 -0400</pubDate>
+        <guid>PPEpisode7</guid>
+        <description>&lt;audio controls preload=&#34;metadata&#34; class=&#34;js-player&#34;&gt;&#xD;&#xA;    &lt;source src=&#34;https://cdn.pitchandplay.org/episodes/PPEpisode7.mp3&#34;&gt;&#xD;&#xA;&lt;/audio&gt;&#xA;&lt;p&gt;This week on Pitch &amp;amp; Play, Ross follows through on Cassie&amp;rsquo;s recommendation to play the beleaguered PlayStation 4 exclusive &lt;em&gt;The Order 1886&lt;/em&gt;. The two discuss the potential in the premise of the game, its incredible graphics (that still hold up in 2023!), and ultimate failure to deliver a satisfying end product. The episode concludes with Ross&amp;rsquo;s pitch to Cassie for the next episode, &lt;em&gt;Rise of the Tomb Raider&lt;/em&gt;, the second game in the Tomb Raider &amp;ldquo;Survivor Trilogy.&amp;rdquo;&lt;/p&gt;&#xA;</description>
+
+        <itunes:title>The Order 1886</itunes:title>
+        <itunes:episodeType>full</itunes:episodeType>
+        <content:encoded>&lt;audio controls preload=&#34;metadata&#34; class=&#34;js-player&#34;&gt;&#xD;&#xA;    &lt;source src=&#34;https://cdn.pitchandplay.org/episodes/PPEpisode7.mp3&#34;&gt;&#xD;&#xA;&lt;/audio&gt;&#xA;&lt;p&gt;This week on Pitch &amp;amp; Play, Ross follows through on Cassie&amp;rsquo;s recommendation to play the beleaguered PlayStation 4 exclusive &lt;em&gt;The Order 1886&lt;/em&gt;. The two discuss the potential in the premise of the game, its incredible graphics (that still hold up in 2023!), and ultimate failure to deliver a satisfying end product. The episode concludes with Ross&amp;rsquo;s pitch to Cassie for the next episode, &lt;em&gt;Rise of the Tomb Raider&lt;/em&gt;, the second game in the Tomb Raider &amp;ldquo;Survivor Trilogy.&amp;rdquo;&lt;/p&gt;&#xA;</content:encoded>
+        <itunes:subtitle>The wall dividing life and death is so thin.</itunes:subtitle>
+        <enclosure length="81936384" type="audio/mpeg" url="https://cdn.pitchandplay.org/episodes/PPEpisode7.mp3" />
+        <itunes:duration>01:25:01</itunes:duration>
+        <itunes:explicit>true</itunes:explicit>
+        <itunes:episode>7</itunes:episode>
+        <itunes:season>1</itunes:season>
         
-            <podcast:chapters url="https://pitchandplay.org/the-order-1886//chapters.json" type="application/json+chapters" />
-              
+                <podcast:chapters url="http://localhost:1313/the-order-1886/chapters.json" type="application/json+chapters" />
+        
+        
+            
     </item>
-  
-    
     <item>
-      <title>The Legend of Zelda: A Link to the Past</title>
-      <link>https://pitchandplay.org/alttp/</link>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:title>The Legend of Zelda: A Link to the Past</itunes:title>
-      <description>
-          Things in the light are not the same in the dark and neither are games from thirty years ago.
-      </description>
-      <content:encoded>
-        <![CDATA[<audio controls preload="metadata" class="js-player">
-    <source src="https://cdn.pitchandplay.org/episodes/PPEpisode6.mp3">
-</audio>
-<p>This week on Pitch &amp; Play, we have our first DNF (&ldquo;Did Not Finish&rdquo;): Cassie fails to get through <em>A Link to the Past</em> but still finds it within herself to recommend <em>The Order 1886</em> to Ross.</p>
-]]>
-      </content:encoded>
-      <itunes:summary>
-        <![CDATA[<audio controls preload="metadata" class="js-player">
-    <source src="https://cdn.pitchandplay.org/episodes/PPEpisode6.mp3">
-</audio>
-<p>This week on Pitch &amp; Play, we have our first DNF (&ldquo;Did Not Finish&rdquo;): Cassie fails to get through <em>A Link to the Past</em> but still finds it within herself to recommend <em>The Order 1886</em> to Ross.</p>
-]]>
-      </itunes:summary>
-      <itunes:subtitle>Things in the light are not the same in the dark and neither are games from thirty years ago.</itunes:subtitle>
-      <enclosure length="66187264" type="audio/mpeg" url="https://cdn.pitchandplay.org/episodes/PPEpisode6.mp3" />
-      <guid>PPEpisode6</guid>
-      <pubDate>Mon, 27 Mar 2023 06:00:00 -0400</pubDate>
-      <itunes:duration>01:08:35</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episode>6</itunes:episode>
-      <podcast:episode>6</podcast:episode>
+        <title>The Legend of Zelda: A Link to the Past</title>
+        <link>http://localhost:1313/alttp/</link>
+        <pubDate>Mon, 27 Mar 2023 06:00:24 -0400</pubDate>
+        <guid>PPEpisode6</guid>
+        <description>&lt;audio controls preload=&#34;metadata&#34; class=&#34;js-player&#34;&gt;&#xD;&#xA;    &lt;source src=&#34;https://cdn.pitchandplay.org/episodes/PPEpisode6.mp3&#34;&gt;&#xD;&#xA;&lt;/audio&gt;&#xA;&lt;p&gt;This week on Pitch &amp;amp; Play, we have our first DNF (&amp;ldquo;Did Not Finish&amp;rdquo;): Cassie fails to get through &lt;em&gt;A Link to the Past&lt;/em&gt; but still finds it within herself to recommend &lt;em&gt;The Order 1886&lt;/em&gt; to Ross.&lt;/p&gt;&#xA;</description>
+
+        <itunes:title>The Legend of Zelda: A Link to the Past</itunes:title>
+        <itunes:episodeType>full</itunes:episodeType>
+        <content:encoded>&lt;audio controls preload=&#34;metadata&#34; class=&#34;js-player&#34;&gt;&#xD;&#xA;    &lt;source src=&#34;https://cdn.pitchandplay.org/episodes/PPEpisode6.mp3&#34;&gt;&#xD;&#xA;&lt;/audio&gt;&#xA;&lt;p&gt;This week on Pitch &amp;amp; Play, we have our first DNF (&amp;ldquo;Did Not Finish&amp;rdquo;): Cassie fails to get through &lt;em&gt;A Link to the Past&lt;/em&gt; but still finds it within herself to recommend &lt;em&gt;The Order 1886&lt;/em&gt; to Ross.&lt;/p&gt;&#xA;</content:encoded>
+        <itunes:subtitle>Things in the light are not the same in the dark and neither are games from thirty years ago.</itunes:subtitle>
+        <enclosure length="66187264" type="audio/mpeg" url="https://cdn.pitchandplay.org/episodes/PPEpisode6.mp3" />
+        <itunes:duration>01:08:35</itunes:duration>
+        <itunes:explicit>true</itunes:explicit>
+        <itunes:episode>6</itunes:episode>
+        <itunes:season>1</itunes:season>
         
-            <podcast:chapters url="https://pitchandplay.org/alttp//chapters.json" type="application/json+chapters" />
-              
+                <podcast:chapters url="http://localhost:1313/alttp/chapters.json" type="application/json+chapters" />
+        
+        
+            
     </item>
-  
-    
     <item>
-      <title>Fable Anniversary</title>
-      <link>https://pitchandplay.org/fable-anniversary/</link>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:title>Fable Anniversary</itunes:title>
-      <description>
-          For Every Choice, A Consequence
-      </description>
-      <content:encoded>
-        <![CDATA[<audio controls preload="metadata" class="js-player">
-    <source src="https://cdn.pitchandplay.org/episodes/PPEpisode5.mp3">
-</audio>
-<p>In this episode of Pitch &amp; Play, an episode about actually playing the games your friends recommend, Ross plays <em>Fable Anniversary</em>, a re-release of Lionhead&rsquo;s <em>Fable</em> (2004). Ross then pitches our next game to Cassie, <em>The Legend of Zelda: A Link to the Past</em>.</p>
-]]>
-      </content:encoded>
-      <itunes:summary>
-        <![CDATA[<audio controls preload="metadata" class="js-player">
-    <source src="https://cdn.pitchandplay.org/episodes/PPEpisode5.mp3">
-</audio>
-<p>In this episode of Pitch &amp; Play, an episode about actually playing the games your friends recommend, Ross plays <em>Fable Anniversary</em>, a re-release of Lionhead&rsquo;s <em>Fable</em> (2004). Ross then pitches our next game to Cassie, <em>The Legend of Zelda: A Link to the Past</em>.</p>
-]]>
-      </itunes:summary>
-      <itunes:subtitle>For Every Choice, A Consequence</itunes:subtitle>
-      <enclosure length="61292544" type="audio/mpeg" url="https://cdn.pitchandplay.org/episodes/PPEpisode5.mp3" />
-      <guid>PPEpisode5</guid>
-      <pubDate>Mon, 13 Mar 2023 06:00:00 -0400</pubDate>
-      <itunes:duration>01:03:31</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episode>5</itunes:episode>
-      <podcast:episode>5</podcast:episode>
+        <title>Fable Anniversary</title>
+        <link>http://localhost:1313/fable-anniversary/</link>
+        <pubDate>Mon, 13 Mar 2023 06:00:24 -0400</pubDate>
+        <guid>PPEpisode5</guid>
+        <description>&lt;audio controls preload=&#34;metadata&#34; class=&#34;js-player&#34;&gt;&#xD;&#xA;    &lt;source src=&#34;https://cdn.pitchandplay.org/episodes/PPEpisode5.mp3&#34;&gt;&#xD;&#xA;&lt;/audio&gt;&#xA;&lt;p&gt;In this episode of Pitch &amp;amp; Play, an episode about actually playing the games your friends recommend, Ross plays &lt;em&gt;Fable Anniversary&lt;/em&gt;, a re-release of Lionhead&amp;rsquo;s &lt;em&gt;Fable&lt;/em&gt; (2004). Ross then pitches our next game to Cassie, &lt;em&gt;The Legend of Zelda: A Link to the Past&lt;/em&gt;.&lt;/p&gt;&#xA;</description>
+
+        <itunes:title>Fable Anniversary</itunes:title>
+        <itunes:episodeType>full</itunes:episodeType>
+        <content:encoded>&lt;audio controls preload=&#34;metadata&#34; class=&#34;js-player&#34;&gt;&#xD;&#xA;    &lt;source src=&#34;https://cdn.pitchandplay.org/episodes/PPEpisode5.mp3&#34;&gt;&#xD;&#xA;&lt;/audio&gt;&#xA;&lt;p&gt;In this episode of Pitch &amp;amp; Play, an episode about actually playing the games your friends recommend, Ross plays &lt;em&gt;Fable Anniversary&lt;/em&gt;, a re-release of Lionhead&amp;rsquo;s &lt;em&gt;Fable&lt;/em&gt; (2004). Ross then pitches our next game to Cassie, &lt;em&gt;The Legend of Zelda: A Link to the Past&lt;/em&gt;.&lt;/p&gt;&#xA;</content:encoded>
+        <itunes:subtitle>For Every Choice, A Consequence</itunes:subtitle>
+        <enclosure length="61292544" type="audio/mpeg" url="https://cdn.pitchandplay.org/episodes/PPEpisode5.mp3" />
+        <itunes:duration>01:03:31</itunes:duration>
+        <itunes:explicit>true</itunes:explicit>
+        <itunes:episode>5</itunes:episode>
+        <itunes:season>1</itunes:season>
         
-            <podcast:chapters url="https://pitchandplay.org/fable-anniversary//chapters.json" type="application/json+chapters" />
-              
+                <podcast:chapters url="http://localhost:1313/fable-anniversary/chapters.json" type="application/json+chapters" />
+        
+        
+            
     </item>
-  
-    
     <item>
-      <title>Vampire Survivors</title>
-      <link>https://pitchandplay.org/vampire-survivors/</link>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:title>Vampire Survivors</itunes:title>
-      <description>
-          The supernatural indie phenomenon that lets you be the bullet hell!
-      </description>
-      <content:encoded>
-        <![CDATA[<audio controls preload="metadata" class="js-player">
-    <source src="https://cdn.pitchandplay.org/episodes/PPEpisode4.mp3">
-</audio>
-<p>In this episode of Pitch &amp; Play, an episode about actually playing the games your friends recommend, Cassie plays <em>Vampire Survivors</em>, the game Ross pitched last episode. Our hosts then give a brief update on their thoughts on <em>Immortality</em>, and Cassie pitches <em>Fable Anniversary</em> to Ross for our next episode.</p>
-]]>
-      </content:encoded>
-      <itunes:summary>
-        <![CDATA[<audio controls preload="metadata" class="js-player">
-    <source src="https://cdn.pitchandplay.org/episodes/PPEpisode4.mp3">
-</audio>
-<p>In this episode of Pitch &amp; Play, an episode about actually playing the games your friends recommend, Cassie plays <em>Vampire Survivors</em>, the game Ross pitched last episode. Our hosts then give a brief update on their thoughts on <em>Immortality</em>, and Cassie pitches <em>Fable Anniversary</em> to Ross for our next episode.</p>
-]]>
-      </itunes:summary>
-      <itunes:subtitle>The supernatural indie phenomenon that lets you be the bullet hell!</itunes:subtitle>
-      <enclosure length="52228096" type="audio/mpeg" url="https://cdn.pitchandplay.org/episodes/PPEpisode4.mp3" />
-      <guid>PPEpisode4</guid>
-      <pubDate>Mon, 27 Feb 2023 06:00:00 -0400</pubDate>
-      <itunes:duration>01:12:06</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episode>4</itunes:episode>
-      <podcast:episode>4</podcast:episode>
+        <title>Vampire Survivors</title>
+        <link>http://localhost:1313/vampire-survivors/</link>
+        <pubDate>Mon, 27 Feb 2023 06:00:24 -0400</pubDate>
+        <guid>PPEpisode4</guid>
+        <description>&lt;audio controls preload=&#34;metadata&#34; class=&#34;js-player&#34;&gt;&#xD;&#xA;    &lt;source src=&#34;https://cdn.pitchandplay.org/episodes/PPEpisode4.mp3&#34;&gt;&#xD;&#xA;&lt;/audio&gt;&#xA;&lt;p&gt;In this episode of Pitch &amp;amp; Play, an episode about actually playing the games your friends recommend, Cassie plays &lt;em&gt;Vampire Survivors&lt;/em&gt;, the game Ross pitched last episode. Our hosts then give a brief update on their thoughts on &lt;em&gt;Immortality&lt;/em&gt;, and Cassie pitches &lt;em&gt;Fable Anniversary&lt;/em&gt; to Ross for our next episode.&lt;/p&gt;&#xA;</description>
+
+        <itunes:title>Vampire Survivors</itunes:title>
+        <itunes:episodeType>full</itunes:episodeType>
+        <content:encoded>&lt;audio controls preload=&#34;metadata&#34; class=&#34;js-player&#34;&gt;&#xD;&#xA;    &lt;source src=&#34;https://cdn.pitchandplay.org/episodes/PPEpisode4.mp3&#34;&gt;&#xD;&#xA;&lt;/audio&gt;&#xA;&lt;p&gt;In this episode of Pitch &amp;amp; Play, an episode about actually playing the games your friends recommend, Cassie plays &lt;em&gt;Vampire Survivors&lt;/em&gt;, the game Ross pitched last episode. Our hosts then give a brief update on their thoughts on &lt;em&gt;Immortality&lt;/em&gt;, and Cassie pitches &lt;em&gt;Fable Anniversary&lt;/em&gt; to Ross for our next episode.&lt;/p&gt;&#xA;</content:encoded>
+        <itunes:subtitle>The supernatural indie phenomenon that lets you be the bullet hell!</itunes:subtitle>
+        <enclosure length="52228096" type="audio/mpeg" url="https://cdn.pitchandplay.org/episodes/PPEpisode4.mp3" />
+        <itunes:duration>01:12:06</itunes:duration>
+        <itunes:explicit>true</itunes:explicit>
+        <itunes:episode>4</itunes:episode>
+        <itunes:season>1</itunes:season>
         
-            <podcast:chapters url="https://pitchandplay.org/vampire-survivors//chapters.json" type="application/json+chapters" />
-              
+                <podcast:chapters url="http://localhost:1313/vampire-survivors/chapters.json" type="application/json+chapters" />
+        
+        
+            
     </item>
-  
-    
     <item>
-      <title>Stardew Valley</title>
-      <link>https://pitchandplay.org/stardew-valley/</link>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:title>Stardew Valley</itunes:title>
-      <description>
-          In our full-length discussion of Stardew Valley, Cassie tries to find ways to convince Ross that Stardew Valley can work for him.
-      </description>
-      <content:encoded>
-        <![CDATA[<audio controls preload="metadata" class="js-player">
-    <source src="https://cdn.pitchandplay.org/episodes/PPEpisode3.mp3">
-</audio>
-<p>This week&rsquo;s episode of Pitch &amp; Play, a podcast about actually playing the games your friends recommend, Ross shares his experiences with <em>Stardew Valley</em>. Cassie tries to find ways to make the game &ldquo;work&rdquo; for him, and we close on Ross pitching <em>Vampire Survivors</em> to Cassie.</p>
-]]>
-      </content:encoded>
-      <itunes:summary>
-        <![CDATA[<audio controls preload="metadata" class="js-player">
-    <source src="https://cdn.pitchandplay.org/episodes/PPEpisode3.mp3">
-</audio>
-<p>This week&rsquo;s episode of Pitch &amp; Play, a podcast about actually playing the games your friends recommend, Ross shares his experiences with <em>Stardew Valley</em>. Cassie tries to find ways to make the game &ldquo;work&rdquo; for him, and we close on Ross pitching <em>Vampire Survivors</em> to Cassie.</p>
-]]>
-      </itunes:summary>
-      <itunes:subtitle>In our full-length discussion of Stardew Valley, Cassie tries to find ways to convince Ross that Stardew Valley can work for him.</itunes:subtitle>
-      <enclosure length="75390976" type="audio/mpeg" url="https://cdn.pitchandplay.org/episodes/PPEpisode3.mp3" />
-      <guid>PPEpisode3</guid>
-      <pubDate>Mon, 13 Feb 2023 06:00:00 -0400</pubDate>
-      <itunes:duration>01:18:12</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episode>3</itunes:episode>
-      <podcast:episode>3</podcast:episode>
+        <title>Stardew Valley</title>
+        <link>http://localhost:1313/stardew-valley/</link>
+        <pubDate>Mon, 13 Feb 2023 06:00:24 -0400</pubDate>
+        <guid>PPEpisode3</guid>
+        <description>&lt;audio controls preload=&#34;metadata&#34; class=&#34;js-player&#34;&gt;&#xD;&#xA;    &lt;source src=&#34;https://cdn.pitchandplay.org/episodes/PPEpisode3.mp3&#34;&gt;&#xD;&#xA;&lt;/audio&gt;&#xA;&lt;p&gt;This week&amp;rsquo;s episode of Pitch &amp;amp; Play, a podcast about actually playing the games your friends recommend, Ross shares his experiences with &lt;em&gt;Stardew Valley&lt;/em&gt;. Cassie tries to find ways to make the game &amp;ldquo;work&amp;rdquo; for him, and we close on Ross pitching &lt;em&gt;Vampire Survivors&lt;/em&gt; to Cassie.&lt;/p&gt;&#xA;</description>
+
+        <itunes:title>Stardew Valley</itunes:title>
+        <itunes:episodeType>full</itunes:episodeType>
+        <content:encoded>&lt;audio controls preload=&#34;metadata&#34; class=&#34;js-player&#34;&gt;&#xD;&#xA;    &lt;source src=&#34;https://cdn.pitchandplay.org/episodes/PPEpisode3.mp3&#34;&gt;&#xD;&#xA;&lt;/audio&gt;&#xA;&lt;p&gt;This week&amp;rsquo;s episode of Pitch &amp;amp; Play, a podcast about actually playing the games your friends recommend, Ross shares his experiences with &lt;em&gt;Stardew Valley&lt;/em&gt;. Cassie tries to find ways to make the game &amp;ldquo;work&amp;rdquo; for him, and we close on Ross pitching &lt;em&gt;Vampire Survivors&lt;/em&gt; to Cassie.&lt;/p&gt;&#xA;</content:encoded>
+        <itunes:subtitle>In our full-length discussion of Stardew Valley, Cassie tries to find ways to convince Ross that Stardew Valley can work for him.</itunes:subtitle>
+        <enclosure length="75390976" type="audio/mpeg" url="https://cdn.pitchandplay.org/episodes/PPEpisode3.mp3" />
+        <itunes:duration>01:18:12</itunes:duration>
+        <itunes:explicit>true</itunes:explicit>
+        <itunes:episode>3</itunes:episode>
+        <itunes:season>1</itunes:season>
         
-            <podcast:chapters url="https://pitchandplay.org/stardew-valley//chapters.json" type="application/json+chapters" />
-              
+                <podcast:chapters url="http://localhost:1313/stardew-valley/chapters.json" type="application/json+chapters" />
+        
+        
+            
     </item>
-  
-    
     <item>
-      <title>Immortality</title>
-      <link>https://pitchandplay.org/immortality/</link>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:title>Immortality</itunes:title>
-      <description>
-          In this spoiler-filled discussion of Immortality, Cassie and Ross discuss their struggles with the presentation of the game and accessing the game's narrative.
-      </description>
-      <content:encoded>
-        <![CDATA[<audio controls preload="metadata" class="js-player">
-    <source src="https://cdn.pitchandplay.org/episodes/PPEpisode2.mp3">
-</audio>
-<p>This week&rsquo;s episode of Pitch &amp; Play, a podcast about actually playing the games your friends recommend, includes our spoiler-filled discussion of Sam Barlow&rsquo;s latest joint, <em>Immortality</em> (2022). Cassie and Ross discuss their struggles with the presentation of the game and the accessibility of the game&rsquo;s story. Not interested in hearing about <em>Immortality</em>? Skip to the chapter marker to hear about our game for next week, as Cassie pitches her &ldquo;warm blanket&rdquo; game to Ross, <em>Stardew Valley</em>.</p>
-]]>
-      </content:encoded>
-      <itunes:summary>
-        <![CDATA[<audio controls preload="metadata" class="js-player">
-    <source src="https://cdn.pitchandplay.org/episodes/PPEpisode2.mp3">
-</audio>
-<p>This week&rsquo;s episode of Pitch &amp; Play, a podcast about actually playing the games your friends recommend, includes our spoiler-filled discussion of Sam Barlow&rsquo;s latest joint, <em>Immortality</em> (2022). Cassie and Ross discuss their struggles with the presentation of the game and the accessibility of the game&rsquo;s story. Not interested in hearing about <em>Immortality</em>? Skip to the chapter marker to hear about our game for next week, as Cassie pitches her &ldquo;warm blanket&rdquo; game to Ross, <em>Stardew Valley</em>.</p>
-]]>
-      </itunes:summary>
-      <itunes:subtitle>In this spoiler-filled discussion of Immortality, Cassie and Ross discuss their struggles with the presentation of the game and accessing the game's narrative.</itunes:subtitle>
-      <enclosure length="88371200" type="audio/mpeg" url="https://cdn.pitchandplay.org/episodes/PPEpisode2.mp3" />
-      <guid>PPEpisode2</guid>
-      <pubDate>Mon, 30 Jan 2023 06:00:00 -0400</pubDate>
-      <itunes:duration>02:02:18</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episode>2</itunes:episode>
-      <podcast:episode>2</podcast:episode>
+        <title>Immortality</title>
+        <link>http://localhost:1313/immortality/</link>
+        <pubDate>Mon, 30 Jan 2023 06:00:24 -0400</pubDate>
+        <guid>PPEpisode2</guid>
+        <description>&lt;audio controls preload=&#34;metadata&#34; class=&#34;js-player&#34;&gt;&#xD;&#xA;    &lt;source src=&#34;https://cdn.pitchandplay.org/episodes/PPEpisode2.mp3&#34;&gt;&#xD;&#xA;&lt;/audio&gt;&#xA;&lt;p&gt;This week&amp;rsquo;s episode of Pitch &amp;amp; Play, a podcast about actually playing the games your friends recommend, includes our spoiler-filled discussion of Sam Barlow&amp;rsquo;s latest joint, &lt;em&gt;Immortality&lt;/em&gt; (2022). Cassie and Ross discuss their struggles with the presentation of the game and the accessibility of the game&amp;rsquo;s story. Not interested in hearing about &lt;em&gt;Immortality&lt;/em&gt;? Skip to the chapter marker to hear about our game for next week, as Cassie pitches her &amp;ldquo;warm blanket&amp;rdquo; game to Ross, &lt;em&gt;Stardew Valley&lt;/em&gt;.&lt;/p&gt;&#xA;</description>
+
+        <itunes:title>Immortality</itunes:title>
+        <itunes:episodeType>full</itunes:episodeType>
+        <content:encoded>&lt;audio controls preload=&#34;metadata&#34; class=&#34;js-player&#34;&gt;&#xD;&#xA;    &lt;source src=&#34;https://cdn.pitchandplay.org/episodes/PPEpisode2.mp3&#34;&gt;&#xD;&#xA;&lt;/audio&gt;&#xA;&lt;p&gt;This week&amp;rsquo;s episode of Pitch &amp;amp; Play, a podcast about actually playing the games your friends recommend, includes our spoiler-filled discussion of Sam Barlow&amp;rsquo;s latest joint, &lt;em&gt;Immortality&lt;/em&gt; (2022). Cassie and Ross discuss their struggles with the presentation of the game and the accessibility of the game&amp;rsquo;s story. Not interested in hearing about &lt;em&gt;Immortality&lt;/em&gt;? Skip to the chapter marker to hear about our game for next week, as Cassie pitches her &amp;ldquo;warm blanket&amp;rdquo; game to Ross, &lt;em&gt;Stardew Valley&lt;/em&gt;.&lt;/p&gt;&#xA;</content:encoded>
+        <itunes:subtitle>In this spoiler-filled discussion of Immortality, Cassie and Ross discuss their struggles with the presentation of the game and accessing the game&amp;rsquo;s narrative.</itunes:subtitle>
+        <enclosure length="88371200" type="audio/mpeg" url="https://cdn.pitchandplay.org/episodes/PPEpisode2.mp3" />
+        <itunes:duration>02:02:18</itunes:duration>
+        <itunes:explicit>true</itunes:explicit>
+        <itunes:episode>2</itunes:episode>
+        <itunes:season>1</itunes:season>
         
-            <podcast:chapters url="https://pitchandplay.org/immortality//chapters.json" type="application/json+chapters" />
-              
+                <podcast:chapters url="http://localhost:1313/immortality/chapters.json" type="application/json+chapters" />
+        
+        
+            
     </item>
-  
-    
     <item>
-      <title>Introduction</title>
-      <link>https://pitchandplay.org/introduction/</link>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:title>Introduction</itunes:title>
-      <description>
-          Welcome to the first episode of Pitch and Play, a podcast about actually playing the games that your friends recommend!
-      </description>
-      <content:encoded>
-        <![CDATA[<audio controls preload="metadata" class="js-player">
-    <source src="https://cdn.pitchandplay.org/episodes/PPEpisode1.mp3">
-</audio>
-<p>Welcome to the first episode of Pitch &amp; Play, a podcast about actually playing the games that your friends recommend! In this episode, Cassie and Ross introduce themselves and explain the backgrounds and perspectives that they each will bring to our discussions of games. Ross then pitches our first game to Cassie, Immortality (2022).</p>
-]]>
-      </content:encoded>
-      <itunes:summary>
-        <![CDATA[<audio controls preload="metadata" class="js-player">
-    <source src="https://cdn.pitchandplay.org/episodes/PPEpisode1.mp3">
-</audio>
-<p>Welcome to the first episode of Pitch &amp; Play, a podcast about actually playing the games that your friends recommend! In this episode, Cassie and Ross introduce themselves and explain the backgrounds and perspectives that they each will bring to our discussions of games. Ross then pitches our first game to Cassie, Immortality (2022).</p>
-]]>
-      </itunes:summary>
-      <itunes:subtitle>Welcome to the first episode of Pitch and Play, a podcast about actually playing the games that your friends recommend!</itunes:subtitle>
-      <enclosure length="20451328" type="audio/mpeg" url="https://cdn.pitchandplay.org/episodes/PPEpisode1.mp3" />
-      <guid>PPEpisode1</guid>
-      <pubDate>Mon, 16 Jan 2023 06:00:00 -0400</pubDate>
-      <itunes:duration>00:27:59</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episode>1</itunes:episode>
-      <podcast:episode>1</podcast:episode>
+        <title>Introduction</title>
+        <link>http://localhost:1313/introduction/</link>
+        <pubDate>Mon, 16 Jan 2023 06:00:24 -0400</pubDate>
+        <guid>PPEpisode1</guid>
+        <description>&lt;audio controls preload=&#34;metadata&#34; class=&#34;js-player&#34;&gt;&#xD;&#xA;    &lt;source src=&#34;https://cdn.pitchandplay.org/episodes/PPEpisode1.mp3&#34;&gt;&#xD;&#xA;&lt;/audio&gt;&#xA;&lt;p&gt;Welcome to the first episode of Pitch &amp;amp; Play, a podcast about actually playing the games that your friends recommend! In this episode, Cassie and Ross introduce themselves and explain the backgrounds and perspectives that they each will bring to our discussions of games. Ross then pitches our first game to Cassie, Immortality (2022).&lt;/p&gt;&#xA;</description>
+
+        <itunes:title>Introduction</itunes:title>
+        <itunes:episodeType>full</itunes:episodeType>
+        <content:encoded>&lt;audio controls preload=&#34;metadata&#34; class=&#34;js-player&#34;&gt;&#xD;&#xA;    &lt;source src=&#34;https://cdn.pitchandplay.org/episodes/PPEpisode1.mp3&#34;&gt;&#xD;&#xA;&lt;/audio&gt;&#xA;&lt;p&gt;Welcome to the first episode of Pitch &amp;amp; Play, a podcast about actually playing the games that your friends recommend! In this episode, Cassie and Ross introduce themselves and explain the backgrounds and perspectives that they each will bring to our discussions of games. Ross then pitches our first game to Cassie, Immortality (2022).&lt;/p&gt;&#xA;</content:encoded>
+        <itunes:subtitle>Welcome to the first episode of Pitch and Play, a podcast about actually playing the games that your friends recommend!</itunes:subtitle>
+        <enclosure length="20451328" type="audio/mpeg" url="https://cdn.pitchandplay.org/episodes/PPEpisode1.mp3" />
+        <itunes:duration>00:27:59</itunes:duration>
+        <itunes:explicit>true</itunes:explicit>
+        <itunes:episode>1</itunes:episode>
+        <itunes:season>1</itunes:season>
         
-            <podcast:chapters url="https://pitchandplay.org/introduction//chapters.json" type="application/json+chapters" />
-              
+                <podcast:chapters url="http://localhost:1313/introduction/chapters.json" type="application/json+chapters" />
+        
+        
+            
     </item>
   </channel>
 </rss>
