@@ -3,15 +3,18 @@ title: "Introduction"
 date: 2023-01-16T06:00:24-04:00
 draft: false
 url: "introduction"
-episodeTitle: "Introduction"
-episodeSubtitle: "Welcome to the first episode of Pitch and Play, a podcast about actually playing the games that your friends recommend!"
+featuredImage: 'cover.png'
+summary: "Welcome to the first episode of Pitch and Play, a podcast about actually playing the games that your friends recommend!"
+
+episodeType: full
 episodeLength: 20451328
 episodeURL: https://cdn.pitchandplay.org/episodes/PPEpisode1.mp3
 episodeDuration: 00:27:59
+episodeExplicit: true
 episodeNumber: 1
+episodeSeason: 1
 episodeChapters: true
-episodeGuid: podlove-2023-01-16t23:24:26+00:00-b10c458ea67b923
-featuredImage: '/cover.png'
+episodeTranscript: false
 ---
 
 {{< audio src="https://cdn.pitchandplay.org/episodes/PPEpisode1.mp3" >}}

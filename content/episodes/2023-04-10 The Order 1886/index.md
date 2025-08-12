@@ -3,15 +3,18 @@ title: "The Order 1886"
 date: 2023-04-10T06:00:24-04:00
 draft: false
 url: "the-order-1886"
-episodeTitle: "The Order 1886"
-episodeSubtitle: "The wall dividing life and death is so thin."
+featuredImage: 'cover.jpg'
+summary: "The wall dividing life and death is so thin."
+
+episodeType: full
 episodeLength: 81936384
 episodeURL: https://cdn.pitchandplay.org/episodes/PPEpisode7.mp3
 episodeDuration: 01:25:01
+episodeExplicit: true
 episodeNumber: 7
+episodeSeason: 1
 episodeChapters: true
-episodeGuid: podlove-2023-03-21t21:54:27+00:00-c170c0bd1098f76
-featuredImage: 'cover.jpg'
+episodeTranscript: false
 ---
 
 {{< audio src="https://cdn.pitchandplay.org/episodes/PPEpisode7.mp3" >}}

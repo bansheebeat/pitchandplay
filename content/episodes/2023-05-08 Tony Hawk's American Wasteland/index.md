@@ -3,15 +3,18 @@ title: "Tony Hawk's American Wasteland"
 date: 2023-05-08T06:00:24-04:00
 draft: false
 url: "tony-hawks-american-wasteland"
-episodeTitle: "Tony Hawk's American Wasteland"
-episodeSubtitle: "Welcome to the Wasteland."
+featuredImage: 'thaw.jpg'
+summary: "Welcome to the Wasteland."
+
+episodeType: full
 episodeLength: 113414144
 episodeURL: https://cdn.pitchandplay.org/episodes/PPEpisode9.mp3
 episodeDuration: 01:57:48
+episodeExplicit: true
 episodeNumber: 9
+episodeSeason: 1
 episodeChapters: true
-episodeGuid: podlove-2023-04-03t06:31:18+00:00-0b0bd3108844498
-featuredImage: 'thaw.jpg'
+episodeTranscript: false
 ---
 
 {{< audio src="https://cdn.pitchandplay.org/episodes/PPEpisode9.mp3" >}}

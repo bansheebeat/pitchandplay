@@ -3,15 +3,18 @@ title: "Immortality"
 date: 2023-01-30T06:00:24-04:00
 draft: false
 url: "immortality"
-episodeTitle: "Immortality"
-episodeSubtitle: "In this spoiler-filled discussion of Immortality, Cassie and Ross discuss their struggles with the presentation of the game and accessing the game's narrative."
+featuredImage: 'cover.jpg'
+summary: "In this spoiler-filled discussion of Immortality, Cassie and Ross discuss their struggles with the presentation of the game and accessing the game's narrative."
+
+episodeType: full
 episodeLength: 88371200
 episodeURL: https://cdn.pitchandplay.org/episodes/PPEpisode2.mp3
 episodeDuration: 02:02:18
+episodeExplicit: true
 episodeNumber: 2
+episodeSeason: 1
 episodeChapters: true
-episodeGuid: podlove-2023-01-24t00:52:25+00:00-bb72677de870c7c
-featuredImage: 'cover.jpg'
+episodeTranscript: false
 ---
 
 {{< audio src="https://cdn.pitchandplay.org/episodes/PPEpisode2.mp3" >}}

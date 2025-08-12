@@ -3,15 +3,18 @@ title: "The Legend of Zelda: Tears of the Kingdom (Part 2)"
 date: 2023-06-05T06:00:24-04:00
 draft: false
 url: "the-legend-of-zelda-tears-of-the-kingdom-part-2"
-episodeTitle: "The Legend of Zelda: Tears of the Kingdom (Part 2)"
-episodeSubtitle: "As above, so below."
+featuredImage: 'totk.jpg'
+summary: "As above, so below."
+
+episodeType: full
 episodeLength: 81944576
 episodeURL: https://cdn.pitchandplay.org/episodes/PPEpisode11.mp3
 episodeDuration: 01:53:23
+episodeExplicit: true
 episodeNumber: 11
+episodeSeason: 1
 episodeChapters: true
-episodeGuid: podlove-2023-06-04t23:12:48+00:00-97d268b76fccc78
-featuredImage: 'totk.jpg'
+episodeTranscript: false
 ---
 
 {{< audio src="https://cdn.pitchandplay.org/episodes/PPEpisode11.mp3" >}}

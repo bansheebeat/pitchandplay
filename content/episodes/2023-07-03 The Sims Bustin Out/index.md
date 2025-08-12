@@ -3,15 +3,18 @@ title: "The Sims Bustin' Out"
 date: 2023-07-03T06:00:24-04:00
 draft: false
 url: "the-sims-bustin-out"
-episodeTitle: "The Sims Bustin' Out"
-episodeSubtitle: "Visit SimValley and meet your demise at the hands of the Veloci-Rooster."
+featuredImage: 'hayseed.jpg'
+summary: "Visit SimValley and meet your demise at the hands of the Veloci-Rooster."
+
+episodeType: full
 episodeLength: 49090560
 episodeURL: https://cdn.pitchandplay.org/episodes/PPEpisode12.mp3
 episodeDuration: 00:42:20
+episodeExplicit: true
 episodeNumber: 12
+episodeSeason: 1
 episodeChapters: true
-episodeGuid: podlove-2023-07-04t17:22:28+00:00-85647a5f15a4681
-featuredImage: 'hayseed.jpg'
+episodeTranscript: false
 ---
 
 {{< audio src="https://cdn.pitchandplay.org/episodes/PPEpisode12.mp3" >}}

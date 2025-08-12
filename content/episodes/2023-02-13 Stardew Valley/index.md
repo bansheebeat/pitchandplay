@@ -3,15 +3,18 @@ title: "Stardew Valley"
 date: 2023-02-13T06:00:24-04:00
 draft: false
 url: "stardew-valley"
-episodeTitle: "Stardew Valley"
-episodeSubtitle: "In our full-length discussion of Stardew Valley, Cassie tries to find ways to convince Ross that Stardew Valley can work for him."
+featuredImage: 'cover.png'
+summary: "In our full-length discussion of Stardew Valley, Cassie tries to find ways to convince Ross that Stardew Valley can work for him."
+
+episodeType: full
 episodeLength: 75390976
 episodeURL: https://cdn.pitchandplay.org/episodes/PPEpisode3.mp3
 episodeDuration: 01:18:12
+episodeExplicit: true
 episodeNumber: 3
+episodeSeason: 1
 episodeChapters: true
-episodeGuid: podlove-2023-01-29t01:37:51+00:00-9a6709055cb8f6a
-featuredImage: 'cover.png'
+episodeTranscript: false
 ---
 
 {{< audio src="https://cdn.pitchandplay.org/episodes/PPEpisode3.mp3" >}}

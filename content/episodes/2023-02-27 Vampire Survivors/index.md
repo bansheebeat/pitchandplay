@@ -3,15 +3,18 @@ title: "Vampire Survivors"
 date: 2023-02-27T06:00:24-04:00
 draft: false
 url: "vampire-survivors"
-episodeTitle: "Vampire Survivors"
-episodeSubtitle: "The supernatural indie phenomenon that lets you be the bullet hell!"
+featuredImage: 'cover.jpg'
+summary: "The supernatural indie phenomenon that lets you be the bullet hell!"
+
+episodeType: full
 episodeLength: 52228096
 episodeURL: https://cdn.pitchandplay.org/episodes/PPEpisode4.mp3
 episodeDuration: 01:12:06
+episodeExplicit: true
 episodeNumber: 4
+episodeSeason: 1
 episodeChapters: true
-episodeGuid: podlove-2023-02-12t16:13:43+00:00-2553922b909a8f6
-featuredImage: 'cover.jpg'
+episodeTranscript: false
 ---
 
 {{< audio src="https://cdn.pitchandplay.org/episodes/PPEpisode4.mp3" >}}
